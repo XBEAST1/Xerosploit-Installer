@@ -1,3 +1,5 @@
 Usage :
 
-```python3 xerosploit-installer.py```
+```
+sudo python3 xerosploit-installer.py
+```
